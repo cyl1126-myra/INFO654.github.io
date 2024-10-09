@@ -1,0 +1,21 @@
+            h1 {
+                font-size:2em;
+                color: #ff9fe5;
+                font-family: "Arial",serif;
+                background-color: #ffd4d4;
+                padding:10px;
+                margin:40px;
+                border:3px solid #ff858d;
+                border-radius: 15px; 
+            }
+            table, td, th{
+                border: 3px solid #ff858d;
+                border-collapse: collapse;
+            }
+            .qoute{
+                font-family: cursive;
+                font-weight: bold;
+            }
+            #mynav{
+                background-color: #2b50aa;
+            }
